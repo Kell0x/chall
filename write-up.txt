@@ -1,0 +1,3 @@
+l'idée c'est d'exploiter la RCE dans le paramètre lang, à l'aveuglette ou en redirigeant la sortie vers un webhook.
+Derrière on a un bash sous linux, avec le sudo sans mot de passe configuré pour man, c'est sécurisé, non ?
+sudo man man !sh
